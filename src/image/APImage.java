@@ -64,7 +64,7 @@ public class APImage extends JFrame implements Iterable<Pixel>{
 
     /**
      * Creates a blank image whose color is black.
-     * @param width the width of the image in pixels
+     * @param width the width of the image in pixelsx
      * @param height the height of the image in pixels
      */
     public APImage(int width, int height){
